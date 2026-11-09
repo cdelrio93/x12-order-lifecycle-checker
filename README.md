@@ -150,6 +150,7 @@ python -m unittest discover tests
 | `tools/make_sample_data.py` | Writes the fake X12 files in `sample_data/` |
 | `sample_data/` | 123 fake X12 files, partner names, and the answer key |
 | `tests/` | Tests for all three parts, including one that pins the answer key |
+| `LICENSE` | MIT license |
 
 ## Roadmap
 
@@ -162,6 +163,10 @@ python -m unittest discover tests
 ## About the data
 
 Every company, trading partner, SKU, PO number and person in this project is made up. No real trading partner data is used. Any match to a real business is a coincidence.
+
+## License
+
+[MIT](LICENSE). You are free to use, change and share this code.
 
 ## About me
 
